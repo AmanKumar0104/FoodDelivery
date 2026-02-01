@@ -4,8 +4,8 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 
 ## Demo
 
-- User Panel: [https://food-delivery-frontend-s2l9.onrender.com/](https://food-delivery-frontend-s2l9.onrender.com/)
-- Admin Panel: [https://food-delivery-admin-wrme.onrender.com/](https://food-delivery-admin-wrme.onrender.com/)
+- User Panel: [http://localhost:5173/](http://localhost:5173/)
+- Admin Panel: [http://localhost:5174/](http://localhost:5174/)
 
 ## Features
 
@@ -46,8 +46,7 @@ This repository hosts the source code for TOMATO, a dynamic food ordering websit
 Clone the project
 
 ```bash
-    git clone https://github.com/Mshandev/Food-Delivery
-```
+    git clone https://github.com/AmanKumar0104/FoodDelivery
 Go to the project directory
 
 ```bash
